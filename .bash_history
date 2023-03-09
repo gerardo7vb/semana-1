@@ -234,3 +234,9 @@ cd yayo-6125/
 ls
 git add .
 git status
+git init
+git status
+git add .
+git commit -m "ultimo intento"
+git push origin master
+git push master
