@@ -1,0 +1,93 @@
+[Trace 22:18:38.936] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/gerardov7/gvbalderas.md
+[Trace 22:18:38.941] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gerardov7/gvbalderas.md
+[Trace 22:18:38.962] Server: connection.languages.diagnostics.on: file:///home/gerardov7/gvbalderas.md
+[Trace 22:18:40.407] Server: connection.languages.diagnostics.on: file:///home/gerardov7/gvbalderas.md
+[Trace 22:18:40.610] Server: connection.languages.diagnostics.on: file:///home/gerardov7/gvbalderas.md
+[Trace 22:19:07.467] Server: connection.languages.diagnostics.on: file:///home/gerardov7/gvbalderas.md
+[Trace 22:19:07.468] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gerardov7/gvbalderas.md 1
+[Debug 22:19:07.469] LinkProvider: compute - file:///home/gerardov7/gvbalderas.md
+[Debug 22:19:07.473] TableOfContentsProvider: create - file:///home/gerardov7/gvbalderas.md
+[Debug 22:19:07.881] MdFoldingProvider: provideFoldingRanges — file:///home/gerardov7/gvbalderas.md 1
+[Trace 22:19:16.982] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gerardov7/gvbalderas.md
+[Trace 22:19:16.991] Server: connection.languages.diagnostics.on: file:///home/gerardov7/gvbalderas.md
+[Debug 22:19:17.166] LinkProvider: compute - file:///home/gerardov7/gvbalderas.md
+[Debug 22:19:17.361] MdFoldingProvider: provideFoldingRanges — file:///home/gerardov7/gvbalderas.md 2
+[Debug 22:19:17.361] TableOfContentsProvider: create - file:///home/gerardov7/gvbalderas.md
+[Trace 22:19:17.712] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gerardov7/gvbalderas.md 2
+[Trace 22:19:20.889] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gerardov7/gvbalderas.md
+[Trace 22:19:20.890] Server: connection.languages.diagnostics.on: file:///home/gerardov7/gvbalderas.md
+[Debug 22:19:21.114] MdFoldingProvider: provideFoldingRanges — file:///home/gerardov7/gvbalderas.md 3
+[Debug 22:19:21.115] TableOfContentsProvider: create - file:///home/gerardov7/gvbalderas.md
+[Trace 22:19:21.265] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gerardov7/gvbalderas.md
+[Trace 22:19:21.270] Server: connection.languages.diagnostics.on: file:///home/gerardov7/gvbalderas.md
+[Trace 22:19:21.392] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gerardov7/gvbalderas.md
+[Trace 22:19:21.392] Server: connection.languages.diagnostics.on: file:///home/gerardov7/gvbalderas.md
+[Debug 22:19:22.270] MdFoldingProvider: provideFoldingRanges — file:///home/gerardov7/gvbalderas.md 5
+[Debug 22:19:22.270] TableOfContentsProvider: create - file:///home/gerardov7/gvbalderas.md
+[Trace 22:19:22.271] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gerardov7/gvbalderas.md
+[Trace 22:19:22.271] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gerardov7/gvbalderas.md
+[Debug 22:19:22.272] MdFoldingProvider: provideFoldingRanges — file:///home/gerardov7/gvbalderas.md 7
+[Debug 22:19:22.272] TableOfContentsProvider: create - file:///home/gerardov7/gvbalderas.md
+[Trace 22:19:22.272] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gerardov7/gvbalderas.md 7
+[Debug 22:19:22.272] LinkProvider: compute - file:///home/gerardov7/gvbalderas.md
+[Trace 22:19:22.273] Server: connection.languages.diagnostics.on: file:///home/gerardov7/gvbalderas.md
+[Trace 22:19:22.281] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gerardov7/gvbalderas.md
+[Trace 22:19:22.282] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gerardov7/gvbalderas.md
+[Trace 22:19:22.283] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gerardov7/gvbalderas.md
+[Debug 22:19:22.297] TableOfContentsProvider: create - file:///home/gerardov7/gvbalderas.md
+[Trace 22:19:22.298] Server: connection.languages.diagnostics.on: file:///home/gerardov7/gvbalderas.md
+[Trace 22:19:22.301] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gerardov7/gvbalderas.md
+[Trace 22:19:22.302] Server: connection.languages.diagnostics.on: file:///home/gerardov7/gvbalderas.md
+[Debug 22:19:22.512] MdFoldingProvider: provideFoldingRanges — file:///home/gerardov7/gvbalderas.md 11
+[Debug 22:19:22.513] TableOfContentsProvider: create - file:///home/gerardov7/gvbalderas.md
+[Trace 22:19:22.716] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gerardov7/gvbalderas.md 11
+[Debug 22:19:22.717] LinkProvider: compute - file:///home/gerardov7/gvbalderas.md
+[Trace 22:19:22.862] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gerardov7/gvbalderas.md
+[Trace 22:19:22.862] Server: connection.languages.diagnostics.on: file:///home/gerardov7/gvbalderas.md
+[Trace 22:19:23.000] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gerardov7/gvbalderas.md
+[Trace 22:19:23.001] Server: connection.languages.diagnostics.on: file:///home/gerardov7/gvbalderas.md
+[Trace 22:19:23.137] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gerardov7/gvbalderas.md
+[Trace 22:19:23.137] Server: connection.languages.diagnostics.on: file:///home/gerardov7/gvbalderas.md
+[Debug 22:19:23.329] MdFoldingProvider: provideFoldingRanges — file:///home/gerardov7/gvbalderas.md 14
+[Debug 22:19:23.329] TableOfContentsProvider: create - file:///home/gerardov7/gvbalderas.md
+[Debug 22:19:23.384] LinkProvider: compute - file:///home/gerardov7/gvbalderas.md
+[Trace 22:19:23.479] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gerardov7/gvbalderas.md 14
+[Trace 22:19:32.107] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gerardov7/gvbalderas.md
+[Trace 22:19:32.108] Server: connection.languages.diagnostics.on: file:///home/gerardov7/gvbalderas.md
+[Trace 22:19:32.323] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gerardov7/gvbalderas.md
+[Trace 22:19:32.323] Server: connection.languages.diagnostics.on: file:///home/gerardov7/gvbalderas.md
+[Trace 22:19:32.507] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gerardov7/gvbalderas.md
+[Trace 22:19:32.508] Server: connection.languages.diagnostics.on: file:///home/gerardov7/gvbalderas.md
+[Trace 22:19:32.674] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gerardov7/gvbalderas.md
+[Trace 22:19:32.675] Server: connection.languages.diagnostics.on: file:///home/gerardov7/gvbalderas.md
+[Debug 22:19:32.877] MdFoldingProvider: provideFoldingRanges — file:///home/gerardov7/gvbalderas.md 18
+[Debug 22:19:32.878] TableOfContentsProvider: create - file:///home/gerardov7/gvbalderas.md
+[Debug 22:19:32.922] LinkProvider: compute - file:///home/gerardov7/gvbalderas.md
+[Trace 22:19:33.027] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gerardov7/gvbalderas.md 18
+[Trace 22:43:41.212] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gerardov7/gvbalderas.md
+[Trace 22:43:41.214] Server: connection.languages.diagnostics.on: file:///home/gerardov7/gvbalderas.md
+[Debug 22:43:41.364] MdFoldingProvider: provideFoldingRanges — file:///home/gerardov7/gvbalderas.md 19
+[Debug 22:43:41.364] TableOfContentsProvider: create - file:///home/gerardov7/gvbalderas.md
+[Debug 22:43:41.423] LinkProvider: compute - file:///home/gerardov7/gvbalderas.md
+[Trace 22:43:41.516] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gerardov7/gvbalderas.md 19
+[Trace 22:44:55.238] Server: connection.languages.diagnostics.on: file:///home/gerardov7/gvbalderas.md
+[Trace 22:45:12.466] Server: connection.languages.diagnostics.on: file:///home/gerardov7/gvbalderas.md
+[Trace 22:45:16.831] Server: connection.languages.diagnostics.on: file:///home/gerardov7/gvbalderas.md
+[Trace 22:45:17.891] Server: connection.languages.diagnostics.on: file:///home/gerardov7/gvbalderas.md
+[Debug 22:45:18.026] MdFoldingProvider: provideFoldingRanges — file:///home/gerardov7/gvbalderas.md 19
+[Trace 22:45:56.750] Server: connection.languages.diagnostics.on: file:///home/gerardov7/gvbalderas.md
+[Debug 22:46:06.478] MdFoldingProvider: provideFoldingRanges — file:///home/gerardov7/gvbalderas.md 19
+[Trace 22:46:08.294] Server: connection.languages.diagnostics.on: file:///home/gerardov7/gvbalderas.md
+[Trace 22:46:09.112] Server: connection.languages.diagnostics.on: file:///home/gerardov7/gvbalderas.md
+[Debug 22:46:09.288] MdFoldingProvider: provideFoldingRanges — file:///home/gerardov7/gvbalderas.md 19
+[Trace 22:46:10.257] Server: connection.languages.diagnostics.on: file:///home/gerardov7/gvbalderas.md
+[Debug 22:46:13.096] MdFoldingProvider: provideFoldingRanges — file:///home/gerardov7/gvbalderas.md 19
+[Trace 22:46:14.918] Server: connection.languages.diagnostics.on: file:///home/gerardov7/gvbalderas.md
+[Trace 22:46:16.385] Server: connection.languages.diagnostics.on: file:///home/gerardov7/gvbalderas.md
+[Debug 22:46:16.385] MdFoldingProvider: provideFoldingRanges — file:///home/gerardov7/gvbalderas.md 19
+[Trace 22:46:17.888] Server: connection.languages.diagnostics.on: file:///home/gerardov7/gvbalderas.md
+[Debug 22:46:18.062] MdFoldingProvider: provideFoldingRanges — file:///home/gerardov7/gvbalderas.md 19
+[Trace 23:16:52.819] Server: connection.languages.diagnostics.on: file:///home/gerardov7/gvbalderas.md
+[Trace 00:56:04.871] Server: connection.languages.diagnostics.on: file:///home/gerardov7/gvbalderas.md
+[Trace 00:56:06.428] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/gerardov7/gvbalderas.md
+[Trace 00:56:06.428] VsCodeClientWorkspace: deleteDocument: file:///home/gerardov7/gvbalderas.md

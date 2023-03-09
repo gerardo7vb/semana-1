@@ -1,0 +1,9 @@
+{
+    "editor.minimap.enabled": false,
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "oneDarkPro.vivid": true,
+    "oneDarkPro.editorTheme": "One Dark Pro Darker",
+    "phpserver.phpConfigPath": "C:\\xampp\\php\\php.ini.",
+    "phpserver.phpPath": "C:\\xampp\\php\\php.exe.",
+    "window.zoomLevel": 1
+}

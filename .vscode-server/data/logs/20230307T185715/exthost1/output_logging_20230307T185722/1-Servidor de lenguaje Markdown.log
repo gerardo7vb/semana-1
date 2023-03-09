@@ -1,0 +1,31 @@
+l10n: Configured to vscode-local:/c%3A/Users/rareg/.vscode/extensions/ms-ceintl.vscode-language-pack-es-1.76.2023030109/translations/extensions/vscode.markdown-language-features.i18n.json
+[Trace 00:58:33.120] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/gerardov7/Code/semana-1/yayo-6125.md
+[Trace 00:58:33.122] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gerardov7/Code/semana-1/yayo-6125.md
+[Trace 00:58:33.125] Server: connection.languages.diagnostics.on: file:///home/gerardov7/Code/semana-1/yayo-6125.md
+[Trace 00:58:33.129] Server: connection.languages.diagnostics.on: file:///home/gerardov7/Code/semana-1/yayo-6125.md
+[Trace 00:58:33.140] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gerardov7/Code/semana-1/yayo-6125.md 1
+[Debug 00:58:33.141] LinkProvider: compute - file:///home/gerardov7/Code/semana-1/yayo-6125.md
+[Debug 00:58:33.320] TableOfContentsProvider: create - file:///home/gerardov7/Code/semana-1/yayo-6125.md
+[Debug 00:58:33.372] MdFoldingProvider: provideFoldingRanges — file:///home/gerardov7/Code/semana-1/yayo-6125.md 1
+[Trace 00:58:53.941] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gerardov7/Code/semana-1/yayo-6125.md
+[Trace 00:58:53.942] Server: connection.languages.diagnostics.on: file:///home/gerardov7/Code/semana-1/yayo-6125.md
+[Debug 00:58:54.127] MdFoldingProvider: provideFoldingRanges — file:///home/gerardov7/Code/semana-1/yayo-6125.md 2
+[Debug 00:58:54.128] TableOfContentsProvider: create - file:///home/gerardov7/Code/semana-1/yayo-6125.md
+[Debug 00:58:54.177] LinkProvider: compute - file:///home/gerardov7/Code/semana-1/yayo-6125.md
+[Trace 00:58:54.288] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gerardov7/Code/semana-1/yayo-6125.md 2
+[Trace 00:58:54.748] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gerardov7/Code/semana-1/yayo-6125.md
+[Trace 00:58:54.749] Server: connection.languages.diagnostics.on: file:///home/gerardov7/Code/semana-1/yayo-6125.md
+[Debug 00:58:54.954] MdFoldingProvider: provideFoldingRanges — file:///home/gerardov7/Code/semana-1/yayo-6125.md 3
+[Debug 00:58:54.955] TableOfContentsProvider: create - file:///home/gerardov7/Code/semana-1/yayo-6125.md
+[Trace 00:58:55.037] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gerardov7/Code/semana-1/yayo-6125.md
+[Trace 00:58:55.038] Server: connection.languages.diagnostics.on: file:///home/gerardov7/Code/semana-1/yayo-6125.md
+[Debug 00:58:55.256] MdFoldingProvider: provideFoldingRanges — file:///home/gerardov7/Code/semana-1/yayo-6125.md 4
+[Debug 00:58:55.262] TableOfContentsProvider: create - file:///home/gerardov7/Code/semana-1/yayo-6125.md
+[Trace 00:58:55.392] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gerardov7/Code/semana-1/yayo-6125.md 4
+[Debug 00:58:55.392] LinkProvider: compute - file:///home/gerardov7/Code/semana-1/yayo-6125.md
+[Trace 00:59:11.406] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gerardov7/Code/semana-1/yayo-6125.md
+[Trace 00:59:11.407] Server: connection.languages.diagnostics.on: file:///home/gerardov7/Code/semana-1/yayo-6125.md
+[Debug 00:59:11.599] MdFoldingProvider: provideFoldingRanges — file:///home/gerardov7/Code/semana-1/yayo-6125.md 5
+[Debug 00:59:11.599] TableOfContentsProvider: create - file:///home/gerardov7/Code/semana-1/yayo-6125.md
+[Debug 00:59:11.639] LinkProvider: compute - file:///home/gerardov7/Code/semana-1/yayo-6125.md
+[Trace 00:59:11.756] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gerardov7/Code/semana-1/yayo-6125.md 5

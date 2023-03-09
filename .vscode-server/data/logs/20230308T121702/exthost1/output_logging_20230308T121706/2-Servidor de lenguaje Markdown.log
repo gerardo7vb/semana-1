@@ -1,0 +1,98 @@
+l10n: Configured to vscode-local:/c%3A/Users/rareg/.vscode/extensions/ms-ceintl.vscode-language-pack-es-1.76.2023030809/translations/extensions/vscode.markdown-language-features.i18n.json
+[Trace 22:51:08.675] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/gerardov7/Code/semana-1/yayo-6125.md
+[Trace 22:51:08.678] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gerardov7/Code/semana-1/yayo-6125.md
+[Trace 22:51:08.680] Server: connection.languages.diagnostics.on: file:///home/gerardov7/Code/semana-1/yayo-6125.md
+[Trace 22:51:08.683] Server: connection.languages.diagnostics.on: file:///home/gerardov7/Code/semana-1/yayo-6125.md
+[Trace 22:51:08.711] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gerardov7/Code/semana-1/yayo-6125.md 1
+[Debug 22:51:08.712] LinkProvider: compute - file:///home/gerardov7/Code/semana-1/yayo-6125.md
+[Debug 22:51:08.961] TableOfContentsProvider: create - file:///home/gerardov7/Code/semana-1/yayo-6125.md
+[Debug 22:51:08.962] MdFoldingProvider: provideFoldingRanges — file:///home/gerardov7/Code/semana-1/yayo-6125.md 1
+[Trace 22:51:14.862] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/gerardov7/Code/semana-1/yayo-6125.md
+[Trace 22:51:14.863] VsCodeClientWorkspace: deleteDocument: file:///home/gerardov7/Code/semana-1/yayo-6125.md
+[Trace 22:51:14.864] Server: connection.languages.diagnostics.on: file:///home/gerardov7/Code/semana-1/yayo-6125.md
+[Trace 22:51:14.864] Server: connection.languages.diagnostics.on: file:///home/gerardov7/Code/semana-1/Readme.md
+[Trace 22:51:14.913] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/gerardov7/Code/semana-1/Readme.md
+[Trace 22:51:14.914] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gerardov7/Code/semana-1/Readme.md
+[Trace 22:51:14.914] Server: connection.languages.diagnostics.on: file:///home/gerardov7/Code/semana-1/Readme.md
+[Trace 22:51:14.915] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gerardov7/Code/semana-1/Readme.md 1
+[Debug 22:51:14.915] LinkProvider: compute - file:///home/gerardov7/Code/semana-1/Readme.md
+[Trace 22:51:14.917] Server: connection.languages.diagnostics.on: file:///home/gerardov7/Code/semana-1/Readme.md
+[Debug 22:51:14.919] TableOfContentsProvider: create - file:///home/gerardov7/Code/semana-1/Readme.md
+[Debug 22:51:15.081] MdFoldingProvider: provideFoldingRanges — file:///home/gerardov7/Code/semana-1/Readme.md 1
+[Trace 22:51:15.186] VsCodeClientWorkspace: onDidChangeWatchedFiles: 1: file:///home/gerardov7/Code/semana-1/Readme.md
+[Trace 22:51:15.365] VsCodeClientWorkspace: onDidChangeWatchedFiles: 3: file:///home/gerardov7/Code/semana-1/yayo-6125.md
+[Trace 22:51:17.440] Server: connection.languages.diagnostics.on: file:///home/gerardov7/Code/semana-1/README.md
+[Trace 22:51:17.441] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/gerardov7/Code/semana-1/Readme.md
+[Trace 22:51:17.616] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/gerardov7/Code/semana-1/README.md
+[Trace 22:51:17.616] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gerardov7/Code/semana-1/README.md
+[Trace 22:51:17.617] Server: connection.languages.diagnostics.on: file:///home/gerardov7/Code/semana-1/README.md
+[Trace 22:51:17.617] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gerardov7/Code/semana-1/README.md 1
+[Debug 22:51:17.617] LinkProvider: compute - file:///home/gerardov7/Code/semana-1/README.md
+[Trace 22:51:17.618] Server: connection.languages.diagnostics.on: file:///home/gerardov7/Code/semana-1/README.md
+[Debug 22:51:17.625] TableOfContentsProvider: create - file:///home/gerardov7/Code/semana-1/README.md
+[Debug 22:51:17.777] MdFoldingProvider: provideFoldingRanges — file:///home/gerardov7/Code/semana-1/README.md 1
+[Trace 22:51:19.075] Server: connection.languages.diagnostics.on: file:///home/gerardov7/Code/semana-1/Readme.md
+[Trace 22:51:19.075] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/gerardov7/Code/semana-1/README.md
+[Trace 22:51:19.075] VsCodeClientWorkspace: deleteDocument: file:///home/gerardov7/Code/semana-1/README.md
+[Trace 22:51:19.118] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/gerardov7/Code/semana-1/Readme.md
+[Trace 22:51:19.118] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gerardov7/Code/semana-1/Readme.md
+[Trace 22:51:19.120] Server: connection.languages.diagnostics.on: file:///home/gerardov7/Code/semana-1/Readme.md
+[Trace 22:51:19.120] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gerardov7/Code/semana-1/Readme.md 1
+[Debug 22:51:19.120] LinkProvider: compute - file:///home/gerardov7/Code/semana-1/Readme.md
+[Trace 22:51:19.122] Server: connection.languages.diagnostics.on: file:///home/gerardov7/Code/semana-1/Readme.md
+[Debug 22:51:19.124] TableOfContentsProvider: create - file:///home/gerardov7/Code/semana-1/Readme.md
+[Debug 22:51:19.305] MdFoldingProvider: provideFoldingRanges — file:///home/gerardov7/Code/semana-1/Readme.md 1
+[Trace 22:51:23.112] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/gerardov7/Code/semana-1/Readme.md
+[Trace 22:51:24.374] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/gerardov7/Code/semana-1/github-profiles/yayo%236125
+[Trace 22:51:24.376] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gerardov7/Code/semana-1/github-profiles/yayo%236125
+[Trace 22:51:24.377] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gerardov7/Code/semana-1/github-profiles/yayo%236125 1
+[Debug 22:51:24.377] LinkProvider: compute - file:///home/gerardov7/Code/semana-1/github-profiles/yayo%236125
+[Trace 22:51:24.379] Server: connection.languages.diagnostics.on: file:///home/gerardov7/Code/semana-1/github-profiles/yayo%236125
+[Debug 22:51:24.407] TableOfContentsProvider: create - file:///home/gerardov7/Code/semana-1/github-profiles/yayo%236125
+[Debug 22:51:24.572] MdFoldingProvider: provideFoldingRanges — file:///home/gerardov7/Code/semana-1/github-profiles/yayo%236125 1
+[Trace 22:51:29.502] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gerardov7/Code/semana-1/github-profiles/yayo%236125
+[Trace 22:51:29.503] Server: connection.languages.diagnostics.on: file:///home/gerardov7/Code/semana-1/github-profiles/yayo%236125
+[Debug 22:51:29.701] MdFoldingProvider: provideFoldingRanges — file:///home/gerardov7/Code/semana-1/github-profiles/yayo%236125 2
+[Debug 22:51:29.702] TableOfContentsProvider: create - file:///home/gerardov7/Code/semana-1/github-profiles/yayo%236125
+[Debug 22:51:29.738] LinkProvider: compute - file:///home/gerardov7/Code/semana-1/github-profiles/yayo%236125
+[Trace 22:51:29.849] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gerardov7/Code/semana-1/github-profiles/yayo%236125 2
+[Trace 22:51:32.687] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gerardov7/Code/semana-1/github-profiles/yayo%236125
+[Trace 22:51:32.687] Server: connection.languages.diagnostics.on: file:///home/gerardov7/Code/semana-1/github-profiles/yayo%236125
+[Debug 22:51:32.896] MdFoldingProvider: provideFoldingRanges — file:///home/gerardov7/Code/semana-1/github-profiles/yayo%236125 3
+[Debug 22:51:32.897] TableOfContentsProvider: create - file:///home/gerardov7/Code/semana-1/github-profiles/yayo%236125
+[Debug 22:51:32.931] LinkProvider: compute - file:///home/gerardov7/Code/semana-1/github-profiles/yayo%236125
+[Trace 22:51:33.046] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gerardov7/Code/semana-1/github-profiles/yayo%236125 3
+[Trace 22:51:35.175] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gerardov7/Code/semana-1/github-profiles/yayo%236125
+[Trace 22:51:35.176] Server: connection.languages.diagnostics.on: file:///home/gerardov7/Code/semana-1/github-profiles/yayo%236125
+[Debug 22:51:35.377] MdFoldingProvider: provideFoldingRanges — file:///home/gerardov7/Code/semana-1/github-profiles/yayo%236125 4
+[Debug 22:51:35.378] TableOfContentsProvider: create - file:///home/gerardov7/Code/semana-1/github-profiles/yayo%236125
+[Debug 22:51:35.419] LinkProvider: compute - file:///home/gerardov7/Code/semana-1/github-profiles/yayo%236125
+[Trace 22:51:35.529] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gerardov7/Code/semana-1/github-profiles/yayo%236125 4
+[Trace 22:51:37.521] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gerardov7/Code/semana-1/github-profiles/yayo%236125
+[Trace 22:51:37.522] Server: connection.languages.diagnostics.on: file:///home/gerardov7/Code/semana-1/github-profiles/yayo%236125
+[Debug 22:51:37.710] MdFoldingProvider: provideFoldingRanges — file:///home/gerardov7/Code/semana-1/github-profiles/yayo%236125 5
+[Debug 22:51:37.711] TableOfContentsProvider: create - file:///home/gerardov7/Code/semana-1/github-profiles/yayo%236125
+[Debug 22:51:37.759] LinkProvider: compute - file:///home/gerardov7/Code/semana-1/github-profiles/yayo%236125
+[Trace 22:51:37.864] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gerardov7/Code/semana-1/github-profiles/yayo%236125 5
+[Trace 22:53:12.234] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/gerardov7/Code/semana-1/github-profiles/yayo%236125
+[Trace 22:53:12.234] VsCodeClientWorkspace: deleteDocument: file:///home/gerardov7/Code/semana-1/github-profiles/yayo%236125
+[Trace 22:53:12.235] Server: connection.languages.diagnostics.on: file:///home/gerardov7/Code/semana-1/github-profiles/yayo%236125
+[Trace 22:53:12.320] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/gerardov7/Code/semana-1/github-profiles/yayo-6125/yayo%236125
+[Trace 22:53:12.320] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/gerardov7/Code/semana-1/github-profiles/yayo-6125/yayo%236125
+[Trace 22:53:12.322] DocumentSymbolProvider: provideDocumentSymbols — file:///home/gerardov7/Code/semana-1/github-profiles/yayo-6125/yayo%236125 1
+[Debug 22:53:12.323] LinkProvider: compute - file:///home/gerardov7/Code/semana-1/github-profiles/yayo-6125/yayo%236125
+[Trace 22:53:12.323] Server: connection.languages.diagnostics.on: file:///home/gerardov7/Code/semana-1/github-profiles/yayo-6125/yayo%236125
+[Debug 22:53:12.333] TableOfContentsProvider: create - file:///home/gerardov7/Code/semana-1/github-profiles/yayo-6125/yayo%236125
+[Debug 22:53:12.486] MdFoldingProvider: provideFoldingRanges — file:///home/gerardov7/Code/semana-1/github-profiles/yayo-6125/yayo%236125 1
+[Trace 01:25:30.698] Server: connection.languages.diagnostics.on: file:///home/gerardov7/Code/semana-1/github-profiles/yayo-6125/yayo%236125
+[Trace 18:37:42.590] Server: connection.languages.diagnostics.on: file:///home/gerardov7/Code/semana-1/github-profiles/yayo-6125/yayo%236125
+[Debug 18:37:42.739] MdFoldingProvider: provideFoldingRanges — file:///home/gerardov7/Code/semana-1/github-profiles/yayo-6125/yayo%236125 1
+[Trace 18:37:44.730] Server: connection.languages.diagnostics.on: file:///home/gerardov7/Code/semana-1/github-profiles/yayo-6125/yayo%236125
+[Trace 19:00:36.663] VsCodeClientWorkspace: onDidChangeWatchedFiles: 1: file:///home/gerardov7/semana-1/README.md
+[Trace 19:00:36.666] VsCodeClientWorkspace: onDidChangeWatchedFiles: 1: file:///home/gerardov7/semana-1/Readme.md
+[Trace 19:01:41.937] Server: connection.languages.diagnostics.on: file:///home/gerardov7/Code/semana-1/github-profiles/yayo-6125/yayo%236125
+[Debug 19:01:43.688] MdFoldingProvider: provideFoldingRanges — file:///home/gerardov7/Code/semana-1/github-profiles/yayo-6125/yayo%236125 1
+[Debug 19:01:43.692] MdFoldingProvider: provideFoldingRanges — file:///home/gerardov7/Code/semana-1/github-profiles/yayo-6125/yayo%236125 1
+[Trace 19:01:43.693] Server: connection.languages.diagnostics.on: file:///home/gerardov7/Code/semana-1/github-profiles/yayo-6125/yayo%236125
+[Trace 19:01:43.820] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/gerardov7/Code/semana-1/github-profiles/yayo-6125/yayo%236125
+[Trace 19:01:43.820] VsCodeClientWorkspace: deleteDocument: file:///home/gerardov7/Code/semana-1/github-profiles/yayo-6125/yayo%236125

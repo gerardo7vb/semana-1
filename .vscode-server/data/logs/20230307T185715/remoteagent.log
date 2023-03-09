@@ -1,0 +1,25 @@
+2023-03-07 18:57:15.418 [info] 
+
+
+
+
+2023-03-07 18:57:15.486 [info] Extension host agent started.
+2023-03-07 18:57:17.198 [info] [127.0.0.1][462a7e56][ManagementConnection] New connection established.
+2023-03-07 18:57:20.222 [info] [127.0.0.1][adb7fe16][ExtensionHostConnection] New connection established.
+2023-03-07 18:57:20.236 [info] [127.0.0.1][adb7fe16][ExtensionHostConnection] <2720> Launched Extension Host Process.
+2023-03-07 18:57:25.780 [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+2023-03-07 18:57:25.781 [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+2023-03-07 18:57:25.930 [info] Installing extension: ms-ceintl.vscode-language-pack-es
+2023-03-07 18:57:25.939 [info] Extensions is already requested to install ms-ceintl.vscode-language-pack-es
+2023-03-07 18:57:32.441 [info] Extension signature verification: ms-ceintl.vscode-language-pack-es. Verification status: Verified.
+2023-03-07 18:57:32.768 [info] Extracted extension to /home/gerardov7/.vscode-server/extensions/.c929e852-717f-4a84-98d5-6407b65c599e: ms-ceintl.vscode-language-pack-es
+2023-03-07 18:57:32.781 [info] Renamed to /home/gerardov7/.vscode-server/extensions/ms-ceintl.vscode-language-pack-es-1.76.2023030109
+2023-03-07 18:57:32.786 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-es
+2023-03-07 18:57:32.798 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-es
+2023-03-07 18:57:32.901 [info] Marked extension as uninstalled ms-ceintl.vscode-language-pack-es-1.75.2023021509
+2023-03-07 18:57:32.953 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-es
+2023-03-07 19:23:52.864 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-07 19:37:30.204 [info] [127.0.0.1][adb7fe16][ExtensionHostConnection] The client has reconnected.
+2023-03-07 19:37:31.193 [info] [127.0.0.1][462a7e56][ManagementConnection] The client has reconnected.
+2023-03-07 20:24:22.514 [info] [127.0.0.1][462a7e56][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-03-07 20:24:22.642 [info] [127.0.0.1][adb7fe16][ExtensionHostConnection] <2720> Extension Host Process exited with code: 0, signal: null.

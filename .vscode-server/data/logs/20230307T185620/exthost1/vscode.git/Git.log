@@ -1,0 +1,16 @@
+2023-03-07 18:56:24.983 [info] Nivel de registro: Info
+2023-03-07 18:56:24.983 [info] La validación encontró GIT en: “git“
+2023-03-07 18:56:24.983 [info] Usando GIT “2.34.1” desde “git”
+2023-03-07 18:56:24.983 [info] > git rev-parse --show-toplevel [6ms]
+2023-03-07 18:56:24.983 [info] > git rev-parse --git-dir --git-common-dir [11ms]
+2023-03-07 18:56:24.983 [info] Open repository: /home/gerardov7/Code/semana-1
+2023-03-07 18:56:24.983 [info] > git rev-parse --show-toplevel [21ms]
+2023-03-07 18:56:24.987 [info] > git config --get commit.template [11ms]
+2023-03-07 18:56:25.008 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2023-03-07 18:56:25.048 [info] > git status -z -uall [25ms]
+2023-03-07 18:56:25.048 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2023-03-07 18:56:25.078 [info] > git config --get commit.template [2ms]
+2023-03-07 18:56:25.095 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-03-07 18:56:25.117 [info] > git status -z -uall [8ms]
+2023-03-07 18:56:25.119 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2023-03-07 18:56:25.500 [info] > git check-ignore -v -z --stdin [4ms]

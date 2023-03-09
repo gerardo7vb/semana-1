@@ -1,0 +1,27 @@
+2023-03-08 12:17:02.544 [info] 
+
+
+
+
+2023-03-08 12:17:02.629 [info] Extension host agent started.
+2023-03-08 12:17:02.984 [info] Deleted from disk ms-ceintl.vscode-language-pack-es /home/gerardov7/.vscode-server/extensions/ms-ceintl.vscode-language-pack-es-1.75.2023021509
+2023-03-08 12:17:03.128 [info] [127.0.0.1][82182171][ManagementConnection] New connection established.
+2023-03-08 12:17:03.132 [info] [127.0.0.1][1f7aaa6c][ExtensionHostConnection] New connection established.
+2023-03-08 12:17:04.213 [info] [127.0.0.1][1f7aaa6c][ExtensionHostConnection] <518> Launched Extension Host Process.
+2023-03-08 12:17:09.218 [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+2023-03-08 12:17:09.218 [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+2023-03-08 12:17:09.361 [info] Installing extension: ms-ceintl.vscode-language-pack-es
+2023-03-08 12:17:09.404 [info] Extensions is already requested to install ms-ceintl.vscode-language-pack-es
+2023-03-08 12:17:15.576 [info] Extension signature verification: ms-ceintl.vscode-language-pack-es. Verification status: Verified.
+2023-03-08 12:17:15.824 [info] Extracted extension to /home/gerardov7/.vscode-server/extensions/.1660b82f-5e93-405b-8dc2-2129c8ab3145: ms-ceintl.vscode-language-pack-es
+2023-03-08 12:17:15.840 [info] Renamed to /home/gerardov7/.vscode-server/extensions/ms-ceintl.vscode-language-pack-es-1.76.2023030809
+2023-03-08 12:17:15.843 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-es
+2023-03-08 12:17:15.855 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-es
+2023-03-08 12:17:15.914 [info] Marked extension as uninstalled ms-ceintl.vscode-language-pack-es-1.76.2023030109
+2023-03-08 12:17:15.967 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-es
+2023-03-08 14:45:24.795 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-08 16:14:41.983 [info] [127.0.0.1][82182171][ManagementConnection] The client has reconnected.
+2023-03-08 16:14:43.043 [info] [127.0.0.1][1f7aaa6c][ExtensionHostConnection] The client has reconnected.
+2023-03-08 20:05:02.054 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-09 11:00:56.649 [info] [127.0.0.1][82182171][ManagementConnection] The client has reconnected.
+2023-03-09 11:00:57.753 [info] [127.0.0.1][1f7aaa6c][ExtensionHostConnection] The client has reconnected.

@@ -1,0 +1,15 @@
+2023-03-07 18:56:20.519 [info] 
+
+
+
+
+2023-03-07 18:56:20.632 [info] Extension host agent started.
+2023-03-07 18:56:20.810 [info] [127.0.0.1][4f78eed8][ManagementConnection] New connection established.
+2023-03-07 18:56:21.867 [info] [127.0.0.1][91e3cd06][ExtensionHostConnection] New connection established.
+2023-03-07 18:56:22.181 [info] [127.0.0.1][91e3cd06][ExtensionHostConnection] <2367> Launched Extension Host Process.
+2023-03-07 18:57:32.872 [info] Extensions removed from another source ms-ceintl.vscode-language-pack-es file:///home/gerardov7/.vscode-server/extensions/extensions.json
+2023-03-07 18:57:32.889 [info] Extensions added from another source ms-ceintl.vscode-language-pack-es file:///home/gerardov7/.vscode-server/extensions/extensions.json
+2023-03-07 18:57:32.895 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/gerardov7/.vscode-server/bin/441438abd1ac652551dbe4d408dfcec8a499b8bf/out/vs/server/node/server.main.js:157:6507)
+    at process.emit (node:events:526:28)
+2023-03-07 22:12:48.676 [warning] No ptyHost heartbeat after 6 seconds

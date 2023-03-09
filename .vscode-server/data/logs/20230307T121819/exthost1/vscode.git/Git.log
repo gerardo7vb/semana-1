@@ -1,0 +1,6 @@
+2023-03-07 12:24:05.394 [info] Validating found git in: git
+2023-03-07 12:24:05.520 [info] Using git 2.34.1 from git
+2023-03-07 12:24:32.539 [info] > git rev-parse --show-toplevel [13ms]
+2023-03-07 12:24:32.539 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-07 12:24:35.871 [info] > git rev-parse --show-toplevel [6ms]
+2023-03-07 12:24:35.871 [info] fatal: not a git repository (or any of the parent directories): .git
